@@ -2,12 +2,17 @@ body{
     margin:0;
     padding:0;
     background-color: #F5F4FA;
-    color:#2196F3;   
+    color:#070707;   
 }
 h1{
     font-family:sans-serif;
+    color:#070707; 
 }
 h2{
     font-family:sans-serif;
-    color:#FFFFFF; 
+    color:#070707; 
+}
+h3{
+    font-family:sans-serif;
+    color:#070707; 
 }
